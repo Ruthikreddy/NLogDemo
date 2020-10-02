@@ -1,0 +1,5 @@
+2020-10-02 19:08:35.9127 DEBUG Debug Unsuccessful: Add()
+2020-10-02 19:08:35.9779 ERROR values entered by user was not greater than 0. 
+2020-10-02 19:08:35.9779 WARN First number or second number should not be zero.
+2020-10-02 19:08:35.9779 DEBUG Debug successful: Add()
+2020-10-02 19:08:35.9779 INFO Add() passed: 0
